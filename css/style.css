@@ -1,0 +1,178 @@
+.unstyiled-list {
+    list-style: none;
+}
+.navigation-list li a {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+text-decoration: none;
+}
+.navigation-list li {
+    list-style: none;
+}
+.Studio {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #2196F3;
+    text-decoration: none;
+}
+.Studio::after {
+    content: "Studio";
+    color:  #000000;
+}
+.portofolio {
+    text-decoration: none;
+    color: #212121;
+}
+.S{
+    text-decoration: none;
+    color: #2196F3 
+}
+.Contacts{
+    text-decoration: none;
+    color: #212121;
+}
+.info{
+    text-decoration: none;
+    color: #2196F3 
+}
+.tel{
+    text-decoration: none;
+    color: #757575;  
+}
+.title-section {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+color: #FFFFFF;
+}
+.button {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+.main-section {
+background: #2F303A;
+}
+.benefits {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.description-benefits {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+letter-spacing: 0.03em;
+color: #757575;
+}
+.second-title-section {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.member-name {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #212121;
+}
+.position {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #757575;
+}
+.adress {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+}
+.contact {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
+}
+.buttons {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+letter-spacing: 0.03em;
+color: #212121;
+border-radius: 4px;
+text-decoration: none;
+list-style: none;
+}
+.areas-title {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+letter-spacing: 0.06em;
+color: #212121;
+}
+.area-describe {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+letter-spacing: 0.03em;
+color: #757575;
+}
