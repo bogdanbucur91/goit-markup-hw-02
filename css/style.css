@@ -88,7 +88,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 border-radius: 4px;
 }
 .button:hover{
-    color: #2196F3;
+color: #2196F3;
 }
 .main-section {
 background: #2F303A;
@@ -168,7 +168,7 @@ color: rgba(255, 255, 255, 0.6);
 text-decoration: none;
 }
 .contact:hover{
-    color: #2196F3;
+color: #2196F3;
 }
 .buttons {
 font-family: 'Roboto';
@@ -183,8 +183,17 @@ border-radius: 4px;
 text-decoration: none;
 list-style: none;
 }
+.buttons:hover{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+color:#2196F3;
+}
 .areas-title {
-    font-family: 'Roboto';
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 18px;
